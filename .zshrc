@@ -113,6 +113,3 @@ export PATH="/opt/homebrew/opt/node@18/bin:$PATH"
 . "/Users/santiagopittella/.starkli/env"
 
 export PATH="$PATH:$HOME/.local/bin"
-
-alias ssh-starknet-testing="ssh starknet_explorer@65.21.27.24"
-alias ssh-starknet-prod="ssh root@178.63.96.60"
